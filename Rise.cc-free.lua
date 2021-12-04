@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoDripLiam/veryeasywhitelist/main/Key%20wl", true))()
 
 
 
